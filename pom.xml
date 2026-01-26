@@ -78,10 +78,10 @@
     <version.java>8</version.java>
     <version.maven>3.6.3</version.maven>
     <!-- Dependencies -->
-    <version.assertj-core>3.27.3</version.assertj-core>
+    <version.assertj-core>3.27.7</version.assertj-core>
     <version.checkstyle>10.23.0</version.checkstyle>
     <version.commons-io>2.19.0</version.commons-io>
-    <version.commons-lang3>3.17.0</version.commons-lang3>
+    <version.commons-lang3>3.18.0</version.commons-lang3>
     <version.commons-text>1.13.1</version.commons-text>
     <version.httpcore>4.4.16</version.httpcore>
     <version.jakarta.xml.bind-api>4.0.2</version.jakarta.xml.bind-api>
